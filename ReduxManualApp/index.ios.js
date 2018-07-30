@@ -7,4 +7,4 @@ import { AppRegistry } from 'react-native';
 import App from './src/app';
 
 //アプケーションの描画を行う
-AppRegistry.registerComponent('ReduxEmployeeApp', () => App);
+AppRegistry.registerComponent('ReduxManualApp', () => App);

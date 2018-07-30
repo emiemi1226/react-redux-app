@@ -1,4 +1,4 @@
-package com.reduxemployeeapp;
+package com.ReduxManualApp;
 
 import android.app.Application;
 import android.util.Log;

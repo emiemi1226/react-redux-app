@@ -26,6 +26,7 @@ class ManualList extends Component {
 
   //見た目データのレンダリングを行う
   render() {
+    console.log("ふはは");
     return (
     <View>
         <TouchableOpacity >

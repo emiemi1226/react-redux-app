@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class ReduxEmployeeApp extends Component {
+export default class ReduxManualApp extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('ReduxEmployeeApp', () => ReduxEmployeeApp);
+AppRegistry.registerComponent('ReduxManualApp', () => ReduxManualApp);
